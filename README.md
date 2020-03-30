@@ -1,13 +1,13 @@
 # Semana OmniStack 11
 ## Serviço de doações para ONGs.
 
-### Backend:
-#### - NodeJS
-#### - SQLite
+#### Backend:
+ - NodeJS
+ - SQLite
 
-### Frontend:
-#### - ReactJS
+#### Frontend:
+ - ReactJS
 
-### Mobile:
-#### - React Native.
+#### Mobile:
+ - React Native.
 
