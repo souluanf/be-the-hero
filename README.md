@@ -3,35 +3,24 @@
     <img src="frontend/src/assets/logo.svg" height="100px" alt="Be-The-Hero"/>
 </a>
 
-<h3>Backend Developer Challenge</h3>
+<h3>Be The Hero - SemanaOmniStack 11</h3>
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/devel-Python-brightgreen" alt="Python"/>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/devel-NodeJS-brightgreen" alt="NodeJS"/>
 </a>
 
-<a href="https://travis-ci.com" target="_blank">
-  <img src="https://img.shields.io/badge/ci-Travis-brightgreen" alt="Travis CI"/>
+<a href="https://pt-br.reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/lib-React-brightgreen" alt="React"/>
 </a>
 
-<a href="https://www.django-rest-framework.org" target="_blank">
-  <img src="https://img.shields.io/badge/api-DRF-brightgreen" alt="Django Rest Framework"/>
+<a href="https://reactnative.dev" target="_blank">
+  <img src="https://img.shields.io/badge/lib-ReactNative-brightgreen" alt="ReactNative"/>
 </a>
 
-<a href="https://www.djangoproject.com" target="_blank">
-  <img src="https://img.shields.io/badge/main--framework-Django-brightgreen" alt="Django"/>
+<a href="https://www.sqlite.org" target="_blank">
+  <img src="https://img.shields.io/badge/db-SQLite-brightgreen" alt="SQLite"/>
 </a>
 
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://img.shields.io/badge/deploy-Docker|Heroku-brightgreen" alt="Docker"/>
-</a>
-
-<a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">
-  <img src="https://img.shields.io/badge/venv-Conda-brightgreen" alt="Conda"/>
-</a>
-
-<a href="https://docs.pytest.org/en/latest" target="_blank">
-  <img src="https://img.shields.io/badge/coverage-PyTest-brightgreen" alt="PyTest"/>
-</a>
 
 <a href="https://opensource.org/licenses/MIT" target="_blank">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="MIT"/>
@@ -92,32 +81,39 @@ Leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão m
 
 ### Tecnologias
 
-<p align="left"> <a href="https://github.com/souluanf/be-the-hero" target="_blank">img src="frontend/src/assets/react.png" alt="heroes" height="25px"></a> React</p>
-<p align="left"> <img src="frontend/src/assets/react-native.png" alt="heroes" height="25px"> React Native</p>
-<p align="left"> <img src="frontend/src/assets/sqlite.png" alt="heroes" height="25px"> SQLite</p>
+<a href="https://nodejs.org/" target="_blank">
+    <img src="frontend/src/assets/node.png" height="25px" alt="NodeJS"/>
+</a>React<br/>
+
+<a href="https://pt-br.reactjs.org/" target="_blank">
+    <img src="frontend/src/assets/react.png" height="25px" alt="ReactJS"/>
+</a>React<br/>
+
+<a href="https://reactnative.dev" target="_blank">
+    <img src="frontend/src/assets/react-native.png" height="25px" alt="React Native"/>
+</a>React Native<br/>
+
+<a href="https://www.sqlite.org" target="_blank">
+    <img src="frontend/src/assets/sqlite.png" height="25px" alt="SQLite"/>
+</a>SQLite<br/>
+
+## Demonstração
+
+### Web
 
 
-
-<p align="left">
-<a href="https://github.com/souluanf/be-the-hero" target="_blank">
-    <img src="frontend/src/assets/logo.svg" height="100px" alt="Be-The-Hero"/>
-</a>SQLite</p>
+### Mobile
 
 
-
-
-
-
-
-### Development Environment
+### Ambiente de Desenvolvimento
 
 
 <table>
     <thead>
-        <tr class="table100-head">
-            <th class="column1">Resource</th>
-            <th class="column2">Description</th>
-            <th class="column3">Version</th>
+        <tr >
+            <th class="column1">Recurso</th>
+            <th class="column2">Descrição</th>
+            <th class="column3">Versão</th>
         </tr>
     </thead>
     <tbody>
@@ -127,19 +123,14 @@ Leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão m
                 <td class="column3">I7 G7</td>
             </tr>
             <tr>
-                <td class="column1">Operating System</td>
+                <td class="column1">Sistema Operacional</td>
                 <td class="column2">Ubuntu LTS</td>
                 <td class="column3">18.04.2</td>
             </tr>
             <tr>
                 <td class="column1">Editor/IDE</td>
-                <td class="column2">Pycharm Professional</td>
-                <td class="column3">2019.3</td>
-            </tr>
-            <tr>
-                <td class="column1">Virtual Env</td>
-                <td class="column2">Conda (Miniconda) </td>
-                <td class="column3">4.8.3</td>
+                <td class="column2">Visual Studio Code</td>
+                <td class="column3">1.45.0</td>
             </tr>
             <tr>
                 <td class="column1">Graphics Card</td>
@@ -148,8 +139,8 @@ Leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão m
             </tr>
             <tr>
                 <td class="column1">Devel</td>
-                <td class="column2">Python</td>
-                <td class="column3">3.8.2</td>
+                <td class="column2">NodeJS</td>
+                <td class="column3">12.8.1</td>
             </tr>
     </tbody>
 </table>
