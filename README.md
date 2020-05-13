@@ -83,7 +83,7 @@ Leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão m
 
 <a href="https://nodejs.org/" target="_blank">
     <img src="frontend/src/assets/node.png" height="25px" alt="NodeJS"/>
-</a>React<br/>
+</a>NodeJS<br/>
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="frontend/src/assets/react.png" height="25px" alt="ReactJS"/>
