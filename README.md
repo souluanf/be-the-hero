@@ -3,7 +3,7 @@
     <img src="frontend/src/assets/logo.svg" height="100px" alt="Be-The-Hero"/>
 </a>
 
-<h3>Be The Hero - SemanaOmniStack 11</h3>
+<h3>SemanaOmniStack 11</h3>
 
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/devel-NodeJS-brightgreen" alt="NodeJS"/>
