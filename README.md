@@ -90,7 +90,7 @@ Acesse localhost:19002
 
 Leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
-<p align="center"> <img src="frontend/src/assets/react.png" alt="heroes" height="250"> </p>
+<p align="left"> <img src="frontend/src/assets/react.png" alt="heroes" height="50px"> sdfgsdfg</p>
 
 
 ### Development Environment
