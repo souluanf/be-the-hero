@@ -92,9 +92,21 @@ Leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão m
 
 ### Tecnologias
 
-<p align="left"> <img src="frontend/src/assets/react.png" alt="heroes" height="25px"> React</p>
+<p align="left"> <a href="https://github.com/souluanf/be-the-hero" target="_blank">img src="frontend/src/assets/react.png" alt="heroes" height="25px"></a> React</p>
 <p align="left"> <img src="frontend/src/assets/react-native.png" alt="heroes" height="25px"> React Native</p>
 <p align="left"> <img src="frontend/src/assets/sqlite.png" alt="heroes" height="25px"> SQLite</p>
+
+
+
+<p align="left">
+<a href="https://github.com/souluanf/be-the-hero" target="_blank">
+    <img src="frontend/src/assets/logo.svg" height="100px" alt="Be-The-Hero"/>
+</a>SQLite</p>
+
+
+
+
+
 
 
 ### Development Environment
